@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shunonuma1025.github.io/csb-jpmxif/static/css/main.7176885d.chunk.css",
+    "main.js": "https://shunonuma1025.github.io/csb-jpmxif/static/js/main.532b7350.chunk.js",
+    "main.js.map": "https://shunonuma1025.github.io/csb-jpmxif/static/js/main.532b7350.chunk.js.map",
+    "runtime-main.js": "https://shunonuma1025.github.io/csb-jpmxif/static/js/runtime-main.f0690aa5.js",
+    "runtime-main.js.map": "https://shunonuma1025.github.io/csb-jpmxif/static/js/runtime-main.f0690aa5.js.map",
+    "static/js/2.bffb31ac.chunk.js": "https://shunonuma1025.github.io/csb-jpmxif/static/js/2.bffb31ac.chunk.js",
+    "static/js/2.bffb31ac.chunk.js.map": "https://shunonuma1025.github.io/csb-jpmxif/static/js/2.bffb31ac.chunk.js.map",
+    "index.html": "https://shunonuma1025.github.io/csb-jpmxif/index.html",
+    "static/css/main.7176885d.chunk.css.map": "https://shunonuma1025.github.io/csb-jpmxif/static/css/main.7176885d.chunk.css.map",
+    "static/js/2.bffb31ac.chunk.js.LICENSE.txt": "https://shunonuma1025.github.io/csb-jpmxif/static/js/2.bffb31ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0690aa5.js",
+    "static/js/2.bffb31ac.chunk.js",
+    "static/css/main.7176885d.chunk.css",
+    "static/js/main.532b7350.chunk.js"
+  ]
+}
